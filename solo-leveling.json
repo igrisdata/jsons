@@ -6,6 +6,34 @@
       "name": "Sung Jinwoo",
       "img": "https://igrisdata.github.io/images/solo-leveling/sung-jinwoo.jpg",
       "rank": "M"
+    },
+    {
+      "key": 2,
+      "index": "C",
+      "name": "Cha-Hae-In",
+      "img": "https://igrisdata.github.io/images/solo-leveling/cha-hae-in.jpg",
+      "rank": "S"
+    },
+    {
+      "key": 3,
+      "index": "J",
+      "name": "Yoo Jinho",
+      "img": "https://igrisdata.github.io/images/solo-leveling/yoo-jinho.jpg",
+      "rank": "D"
+    },
+    {
+      "key": 4,
+      "index": "W",
+      "name": "Woo Jinchul",
+      "img": "https://igrisdata.github.io/images/solo-leveling/woo-jinchul.jpg",
+      "rank": "A"
+    },
+    {
+      "key": 5,
+      "index": "J",
+      "name": "Joohee",
+      "img": "https://igrisdata.github.io/images/solo-leveling/joohee.jpg",
+      "rank": "B"
     }
   ]
 }
